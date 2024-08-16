@@ -10,18 +10,7 @@ I'm always in the constant search to be a better professional and person.
  - German (A1)
 ## 🛠 Skills
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=JuanDiegoEcheverryP&theme=dark&background=000000" alt="GitHub Streak">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDiegoEcheverryP&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
-  </a>
-</p>
-
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoEcheverryP&theme=github)](https://github.com/darshanr27)
 
 ## OS
 

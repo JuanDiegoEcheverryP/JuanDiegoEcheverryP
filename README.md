@@ -102,11 +102,14 @@ I'm always in the constant search to be a better professional and person.
 ## 🔗 Want to stay connected ?
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"/>
+  <a href="https://www.instagram.com/j.diego.2608/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/juandiego.echeverryplazas" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
 </p>
+
 
 
 

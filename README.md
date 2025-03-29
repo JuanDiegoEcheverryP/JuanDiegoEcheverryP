@@ -10,7 +10,7 @@ I'm always in the constant search to be a better professional and person.
  - German (A2)
 ## 🛠 Skills
 
-[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoEcheverryP&theme=github)]([https://github.com/darshanr27](https://github.com/JuanDiegoEcheverryP))
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoEcheverryP&theme=github)](https://github.com/JuanDiegoEcheverryP)
 
 ## OS
 

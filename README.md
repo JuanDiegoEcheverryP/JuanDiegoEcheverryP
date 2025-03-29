@@ -1,5 +1,5 @@
 ## 🚀 About Me
-My name is Juan Diego Echeverry Plazas, I'm 22 years old and currently I'm studying systems engineering at Pontificia Universidad Javeriana. Colombia.
+My name is Juan Diego Echeverry Plazas, I'm 23 years old and currently I'm studying systems engineering at Pontificia Universidad Javeriana. Colombia.
 
 I'm always in the constant search to be a better professional and person.
 
@@ -7,7 +7,7 @@ I'm always in the constant search to be a better professional and person.
 
  - Spanish (native)
  - English (B2)
- - German (A1)
+ - German (A2)
 ## 🛠 Skills
 
 [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoEcheverryP&theme=github)](https://github.com/darshanr27)

@@ -1,5 +1,5 @@
 ## 🚀 About Me
-My name is Juan Diego Echeverry Plazas, AI Tech Developer at Samsung.
+My name is Juan Diego Echeverry Plazas, AI Tech Developer at Samsung SELA 🇵🇦.
 
 I'm always in the constant search to be a better professional and person.
 

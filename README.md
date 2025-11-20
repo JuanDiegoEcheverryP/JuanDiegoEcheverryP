@@ -1,5 +1,5 @@
 ## 🚀 About Me
-My name is Juan Diego Echeverry Plazas, I'm 23 years old and currently I'm studying systems engineering at Pontificia Universidad Javeriana. Colombia.
+My name is Juan Diego Echeverry Plazas, AI Tech Developer at Samsung.
 
 I'm always in the constant search to be a better professional and person.
 
